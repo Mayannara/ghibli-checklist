@@ -2,7 +2,7 @@
 
 Um checklist interativo para acompanhar quais filmes do **Studio Ghibli** você já assistiu, organizado cronologicamente por ano de lançamento (1984–2023).
 
-🔗 **[Ver demo ao vivo](https://seu-usuario.github.io/ghibli-checklist/)**
+🔗 **[Ver demo ao vivo](https://mayannara.github.io/ghibli-checklist/)**
 
 ![Status](https://img.shields.io/badge/status-completo-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
