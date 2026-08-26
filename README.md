@@ -30,7 +30,7 @@ Este projeto nasceu da vontade de ter uma forma visual e interativa de acompanha
 
 Não é necessário nenhum processo de build ou instalação de dependências:
 
-\`\`\`bash
+```bash
 # Clone o repositório
 git clone https://github.com/seu-usuario/ghibli-checklist.git
 
@@ -38,17 +38,17 @@ git clone https://github.com/seu-usuario/ghibli-checklist.git
 cd ghibli-checklist
 
 # Abra o index.html no navegador
-\`\`\`
+```
 
 Ou simplesmente abra o arquivo `index.html` diretamente no navegador.
 
 ## 📂 Estrutura do projeto
 
-\`\`\`
+```
 ghibli-checklist/
-├── index.html    # Aplicação completa (HTML + CSS + JS)
-└── README.md     # Este arquivo
-\`\`\`
+├── index.html      # Aplicação completa (HTML + CSS + JS)
+└── README.md        # Este arquivo
+```
 
 ## 💡 Possíveis melhorias futuras
 
@@ -64,4 +64,4 @@ Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar 
 
 ---
 
-Feito com 🌿 por [Seu Nome](https://github.com/Mayannara)
+Feito com 🌿 por [Maya](https://github.com/Mayannara)
