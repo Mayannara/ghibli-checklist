@@ -54,8 +54,7 @@ ghibli-checklist/
 
 - [ ] Adicionar filtro por diretor
 - [x] Incluir pôsteres dos filmes
-- [ ] Exportar progresso em PDF
-- [ ] Sincronizar progresso entre dispositivos (backend)
+- [x] Exportar progresso em PDF
 - [ ] Adicionar curtas-metragens do estúdio
 
 ## 📄 Licença
