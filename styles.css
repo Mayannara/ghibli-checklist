@@ -277,3 +277,25 @@ body {
   vertical-align: middle;
   margin-left: 5px;
 }
+
+.export-btn {
+  margin-top: 15px;
+  padding: 10px 24px;
+  background: white;
+  color: #2d5a87;
+  border: none;
+  border-radius: 30px;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  z-index: 1;
+}
+
+.export-btn:hover {
+  background: #f0f4ff;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
