@@ -46,16 +46,17 @@ Ou simplesmente abra o arquivo `index.html` diretamente no navegador.
 
 ```
 ghibli-checklist/
-├── index.html      # Aplicação completa (HTML + CSS + JS)
-└── README.md        # Este arquivo
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
 ```
 
 ## 💡 Possíveis melhorias futuras
 
 - [ ] Adicionar filtro por diretor
-- [ ] Incluir pôsteres dos filmes
-- [ ] Exportar progresso em PDF
-- [ ] Sincronizar progresso entre dispositivos (backend)
+- [x] Incluir pôsteres dos filmes
+- [x] Exportar progresso em PDF
 - [ ] Adicionar curtas-metragens do estúdio
 
 ## 📄 Licença
