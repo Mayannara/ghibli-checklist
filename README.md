@@ -46,8 +46,10 @@ Ou simplesmente abra o arquivo `index.html` diretamente no navegador.
 
 ```
 ghibli-checklist/
-├── index.html      # Aplicação completa (HTML + CSS + JS)
-└── README.md        # Este arquivo
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
 ```
 
 ## 💡 Possíveis melhorias futuras
